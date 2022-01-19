@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ProductionLinePokemo_ProductionLinePokemoTests : NSObject
+@end
+@implementation PodsDummy_Pods_ProductionLinePokemo_ProductionLinePokemoTests
+@end
